@@ -1,0 +1,8 @@
+praw 
+langchain 
+openai 
+tiktoken
+transformers 
+accelerate
+langchain_huggingface
+langchain-google-genai
